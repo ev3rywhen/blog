@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>everywhen</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-07-27T00:54:26.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>everywhen</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>first post</title>
+    <link href="http://yoursite.com/2016/07/26/first-post/"/>
+    <id>http://yoursite.com/2016/07/26/first-post/</id>
+    <published>2016-07-27T00:54:26.000Z</published>
+    <updated>2016-07-27T00:54:26.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
